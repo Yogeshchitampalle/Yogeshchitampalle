@@ -7,11 +7,9 @@
 
 ![image](https://user-images.githubusercontent.com/86973304/185805370-a5110c9b-4884-4188-a48f-b52e8a35f6e9.png)
 
-- 🌱 I’m Also currently learning Full Stack Web Development
+- Full Stack Web Development
 
 - 🤔 I’m looking for Job where i can Start may Career in IT ..
-
-- 😄 Pronouns: Call Me Raja
 
 - Ex Mech-Quality Engineer
 
