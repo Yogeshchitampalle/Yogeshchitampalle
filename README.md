@@ -1,18 +1,27 @@
-### Hello Frdz 👋
-
+### Hello There 👋
+    #About Me
+I am graduate with a bachelor's degree in Mechanical Eng. I have been working as a quality engineer for the past years,
+but I have always been passionate about front-end development. I am excited to start my career as a front-end developer and 
+I am confident that my skills and experience will make me a valuable asset to any IT Company.
 - 🔭 I’m currently working on FED Tech
-                         ![Frontend img 1](https://github.com/Yogeshchitampalle/Yogeshchitampalle/assets/86973304/3703ec5c-9263-4fc6-9c0a-841032c45867)
-
-
-![image](https://user-images.githubusercontent.com/86973304/185805370-a5110c9b-4884-4188-a48f-b52e8a35f6e9.png)
+![Frontend img 1](https://github.com/Yogeshchitampalle/Yogeshchitampalle/assets/86973304/3703ec5c-9263-4fc6-9c0a-841032c45867)
 
 #Projects:-
 
-1] My_Personal_Portfolio:-
+1] My_Personal_Portfolio:- 
+
+https://yogichi95.netlify.app/
 
 ![image](https://github.com/Yogeshchitampalle/Yogeshchitampalle/assets/86973304/9ccb8cb9-80c5-4bb9-90bc-22558d1730b4)
 
-2] Movie_Ticket_Booking_App_Clone:- (React+Redux) 
+2] Food_Delivery_App:- 
+
+  https://yogichi-food-app.netlify.app/
+  
+![food1](https://github.com/Yogeshchitampalle/Yogeshchitampalle/assets/86973304/c90bf46d-cfe8-44f1-af6b-386d0c288c54)
+
+
+3] Movie_Ticket_Booking_App_Clone:- (React+Redux) 
 
 ![movie-snap](https://github.com/Yogeshchitampalle/Yogeshchitampalle/assets/86973304/6dc67a90-7476-4bad-8980-18d25af121c2)
 
@@ -26,7 +35,7 @@
 2. Full Stack Web-Development by Naresh IT Hydrabad
 - ![CCC3555 (1)](https://github.com/Yogeshchitampalle/Yogeshchitampalle/assets/86973304/f4d6e665-eca2-4656-ae01-7157e2cbfd9e)
 
-
+# Thank's for Your Time, Plz Explore My Git Profile And Plz Guide Me ...!
 
 
 
