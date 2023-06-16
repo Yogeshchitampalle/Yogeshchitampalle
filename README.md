@@ -1,10 +1,10 @@
 ### Hello There 👋
 #
 About_Me:- Frontend Developer 
-#
 I am graduate with a bachelor's degree in Mechanical Eng. I have been working as a quality engineer for the past years,
 but I have always been passionate about front-end development. I am excited to start my career as a front-end developer and 
 I am confident that my skills and experience will make me a valuable asset to any IT Company.
+#
 - 🔭 I’m currently working on FED Tech
 ![Frontend img 1](https://github.com/Yogeshchitampalle/Yogeshchitampalle/assets/86973304/3703ec5c-9263-4fc6-9c0a-841032c45867)
 
