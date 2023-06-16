@@ -1,8 +1,9 @@
 ### Hello There 👋
 #
 About_Me:- Frontend Developer 
-I am graduate with a bachelor's degree in Mechanical Eng. I have been working as a quality engineer for the past years,
-but I have always been passionate about front-end development. I am excited to start my career as a front-end developer and 
+I am graduate with a bachelor's degree in Mechanical Engineering and I have been actively learning frontend development technologies, such as HTML, CSS, and JavaScript.
+I also have some experience with frameworks like React through personal projects.
+I am excited to start my career as a front-end developer and 
 I am confident that my skills and experience will make me a valuable asset to any IT Company.
 #
 - 🔭 I’m currently working on FED Tech
