@@ -1,39 +1,30 @@
 ### Hello There 👋
-#
-About_Me:- Frontend Developer 
-I am graduate with a bachelor's degree in Mechanical Engineering and I have been actively learning frontend development Latest technologies, such as HTML5, CSS-3, and JavaScript.
-I also have some experience with frameworks like React through personal projects.
-I am excited to start my career as a front-end developer and 
-I am confident that my skills and experience will make me a valuable asset to any IT Company.
+### Portfolio Link:- https://yogesh-chitampalle-portfolio.netlify.app/
+![portfolio-react](https://github.com/Yogeshchitampalle/Yogeshchitampalle/assets/86973304/aebe99c4-f333-4c0c-b730-959c99c13b72)
+
 #
 - 🔭 I’m currently working on FED Tech
 ![Frontend img 1](https://github.com/Yogeshchitampalle/Yogeshchitampalle/assets/86973304/3703ec5c-9263-4fc6-9c0a-841032c45867)
 
 #Projects:-
 
-1] My_Personal_Portfolio:- 
-
-https://yogichi95.netlify.app/
-
-![image](https://github.com/Yogeshchitampalle/Yogeshchitampalle/assets/86973304/9ccb8cb9-80c5-4bb9-90bc-22558d1730b4)
-
-2] Food_Delivery_App:- 
+ Food_Delivery_App:- 
 
   https://yogichi-food-app.netlify.app/
   
 ![food1](https://github.com/Yogeshchitampalle/Yogeshchitampalle/assets/86973304/c90bf46d-cfe8-44f1-af6b-386d0c288c54)
 
-3] CRM APPLICATION:-
+ CRM APPLICATION:-
  
  https://see-crm-application.netlify.app/login 
  
  ![crm0](https://github.com/Yogeshchitampalle/Yogeshchitampalle/assets/86973304/b9dfa9e0-a2a2-4e8b-97b3-e65d32c0ee72)
  
-4] Movie_Ticket_Booking_App_Clone:- (React+Redux) 
+ Movie_Ticket_Booking_App_Clone:- (React+Redux) 
 
 ![movie-snap](https://github.com/Yogeshchitampalle/Yogeshchitampalle/assets/86973304/6dc67a90-7476-4bad-8980-18d25af121c2)
 
-5] Flappy_Bird_Game:- 
+ Flappy_Bird_Game:- 
 
 https://confusedbird.netlify.app/
 
